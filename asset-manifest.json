@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/FCC-fe-challenge-app/static/css/main.3b9a7d26.css",
-    "main.js": "/FCC-fe-challenge-app/static/js/main.bf2f98c9.js",
-    "static/js/787.e4e7b035.chunk.js": "/FCC-fe-challenge-app/static/js/787.e4e7b035.chunk.js",
-    "static/media/img-markdown-previewer.JPG": "/FCC-fe-challenge-app/static/media/img-markdown-previewer.e5649cfafef015a84516.JPG",
-    "static/media/img-random-quote-machine.JPG": "/FCC-fe-challenge-app/static/media/img-random-quote-machine.6dc1a59fd214beac4abc.JPG",
-    "static/media/icon-rocket.svg": "/FCC-fe-challenge-app/static/media/icon-rocket.2ffba066c024eb7074709704e06c04b8.svg",
-    "static/media/icon-shrink.svg": "/FCC-fe-challenge-app/static/media/icon-shrink.009f42e484f8ef66029d097ba58c3010.svg",
-    "index.html": "/FCC-fe-challenge-app/index.html",
-    "static/media/icon-expand.svg": "/FCC-fe-challenge-app/static/media/icon-expand.ae5161429761fed125a6b07019635221.svg",
-    "main.3b9a7d26.css.map": "/FCC-fe-challenge-app/static/css/main.3b9a7d26.css.map",
-    "main.bf2f98c9.js.map": "/FCC-fe-challenge-app/static/js/main.bf2f98c9.js.map",
-    "787.e4e7b035.chunk.js.map": "/FCC-fe-challenge-app/static/js/787.e4e7b035.chunk.js.map"
+    "main.css": "/fcc-fe-challenge-app/static/css/main.3b9a7d26.css",
+    "main.js": "/fcc-fe-challenge-app/static/js/main.02911c00.js",
+    "static/js/787.e4e7b035.chunk.js": "/fcc-fe-challenge-app/static/js/787.e4e7b035.chunk.js",
+    "static/media/img-markdown-previewer.JPG": "/fcc-fe-challenge-app/static/media/img-markdown-previewer.e5649cfafef015a84516.JPG",
+    "static/media/img-random-quote-machine.JPG": "/fcc-fe-challenge-app/static/media/img-random-quote-machine.6dc1a59fd214beac4abc.JPG",
+    "static/media/icon-rocket.svg": "/fcc-fe-challenge-app/static/media/icon-rocket.2ffba066c024eb7074709704e06c04b8.svg",
+    "static/media/icon-shrink.svg": "/fcc-fe-challenge-app/static/media/icon-shrink.009f42e484f8ef66029d097ba58c3010.svg",
+    "index.html": "/fcc-fe-challenge-app/index.html",
+    "static/media/icon-expand.svg": "/fcc-fe-challenge-app/static/media/icon-expand.ae5161429761fed125a6b07019635221.svg",
+    "main.3b9a7d26.css.map": "/fcc-fe-challenge-app/static/css/main.3b9a7d26.css.map",
+    "main.02911c00.js.map": "/fcc-fe-challenge-app/static/js/main.02911c00.js.map",
+    "787.e4e7b035.chunk.js.map": "/fcc-fe-challenge-app/static/js/787.e4e7b035.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b9a7d26.css",
-    "static/js/main.bf2f98c9.js"
+    "static/js/main.02911c00.js"
   ]
 }
