@@ -2,6 +2,8 @@ import '../Assets/MarkdownPreviewer.scss';
 import RocketIcon from '../Assets/Icons/icon-rocket.svg';
 import ExpandIcon from '../Assets/Icons/icon-expand.svg';
 import ShrinkIcon from '../Assets/Icons/icon-shrink.svg';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCode } from '@fortawesome/free-solid-svg-icons';
 import React, { useEffect, useState } from 'react';
 import { marked } from 'marked';
 
@@ -133,6 +135,12 @@ And here. | Okay. | I think we get it.
   };
   return (
     <div className="MarkdownPreviewer bg-slate-900">
+      <div className="flex item-center mb-10 pb-2 border-b-4 border-white">
+        <FontAwesomeIcon icon={faCode} size="2x" />
+        <h1 className="font-semibold text-white text-4xl px-4">Markdown Previewer</h1>
+        <FontAwesomeIcon icon={faCode} size="2x" />
+      </div>
+
       {!dataPropsExpandPreviewer ? (
         <div className="w-full">
           <Header dataExpand={receiveDataExpandEditor} text="Editor" />

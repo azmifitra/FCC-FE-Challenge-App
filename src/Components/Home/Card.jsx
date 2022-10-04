@@ -6,7 +6,6 @@ function Card({ data }) {
     <div
       className="card"
       onClick={(event) => {
-        console.log('HALO');
         navigate(`/${data.url}`);
       }}
     >
