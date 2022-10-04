@@ -5,7 +5,8 @@ function Card({ data }) {
   return (
     <div
       className="card"
-      onClick={(event) => {
+      onClick={(e) => {
+        e.preventDefault();
         navigate(`/${data.url}`);
       }}
     >

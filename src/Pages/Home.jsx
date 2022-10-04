@@ -21,6 +21,14 @@ function Home() {
       img: 'img-markdown-previewer.JPG',
       url: 'markdown-previewer',
     },
+    {
+      id: 3,
+      name: 'Drum Machine',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis diam sit amet interdum iaculis. Etiam dui neque, rhoncus ac metus nec, consectetur dignissim massa',
+      textHighlight: 'accent.',
+      img: 'img-drum-machine.JPG',
+      url: 'drum-machine',
+    },
   ];
 
   return (
