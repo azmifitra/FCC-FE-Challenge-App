@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Front End Development Libraries Projects (freecodecamp) using React.JS
 
+🚀🚀🚀Link deploy🚀🚀🚀: [https://azmifitra.github.io/FCC-fe-challenge-app/](https://azmifitra.github.io/FCC-fe-challenge-app/). <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
