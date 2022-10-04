@@ -1,17 +1,17 @@
 import '../Assets/DrumMachine.scss';
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDrum } from '@fortawesome/free-solid-svg-icons';
 
 function DrumMachine() {
-  const [currentQuote, setCurrentQuote] = useState({
-    quote: '',
-    author: '',
-  });
+  // const [currentQuote, setCurrentQuote] = useState({
+  //   quote: '',
+  //   author: '',
+  // });
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-  };
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
+  // };
 
   return (
     <div id="drum-machine" className="DrumMachine">
