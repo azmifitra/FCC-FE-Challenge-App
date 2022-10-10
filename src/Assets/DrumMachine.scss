@@ -43,6 +43,11 @@ $white1: #e0e0e0;
       border-radius: 0.75rem;
       font-size: 1.2rem;
     }
+
+    .active {
+      background-color: $yellow4;
+      color: $yellow2;
+    }
     .drum-pad:hover {
       background-color: $yellow4;
     }
